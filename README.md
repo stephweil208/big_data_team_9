@@ -1,2 +1,2 @@
 ## InsideInsight Overview
-[View Project Flyer](notebooks/project_flyer.pdf)
+[View Project Flyer](flyer.pdf)
