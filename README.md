@@ -1,2 +1,2 @@
-## Project Overview
-[View Project Flyer](docs/project_flyer.pdf)
+## InsideInsight Overview
+[View Project Flyer](notebooks/project_flyer.pdf)
