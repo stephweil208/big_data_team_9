@@ -48,7 +48,7 @@ This project is organized into phases. To fully reproduce the system:
 
 #### 3. NLP Processing (Phase 3)
 - Builds `gold_nlp_features` from review sentiment and topic analysis  
-- 📄 See: `/docs/phase3_nlp.pdf`
+- 📄 See: [Phase 3 Instructions](docs/Phase_3_NLP_Reuse_Instructions.pdf)
 
 #### 4. AI Agent (Phase 4)
 - Combines structured + NLP features to generate recommendations  
