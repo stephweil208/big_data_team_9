@@ -40,16 +40,18 @@ This project is organized into phases. To fully reproduce the system:
   - `gold_reviews`
   - `gold_calendar`
 - 📄 See: [Phase 1 Instructions](docs/Phase_1_Medallion_Pipeline_Reuse_Instructions.pdf)
-- 📄 Code: [Phase 1 notebook](notebooks/phase_1_airbnb_bronze_layer.ipynb)
+- 📄 Code: [Phase 1 Notebook bronze](notebooks/phase_1_airbnb_bronze_layer.ipynb); [Phase 1 Notebook silver](notebooks/phase_1_airbnb_silver_layer.ipynb); [Phase 1 Notebook gold](notebooks/phase_1_airbnb_gold_layer.ipynb) 
 
 #### 2. Feature Engineering (Phase 2)
 - Builds the `gold_features` table used for analytics and AI  
 - Includes pricing benchmarks, occupancy rates, and competitive scoring  
 - 📄 See: [Phase 2 Instructions](docs/Phase_2_Analytics_Reuse_Instructions.pdf)
+- 📄 Code: [Phase 2 Notebook](notebooks/phase_2_feature_engineering.ipynb)
 
 #### 3. NLP Processing (Phase 3)
 - Builds `gold_nlp_features` from review sentiment and topic analysis  
 - 📄 See: [Phase 3 Instructions](docs/Phase_3_NLP_Reuse_Instructions.pdf)
+- 📄 Code: [Phase 3 Notebook](notebooks/phase_3_NLP.ipynb) 
 
 #### 4. AI Agent (Phase 4)
 - Combines structured + NLP features to generate recommendations  
@@ -57,6 +59,7 @@ This project is organized into phases. To fully reproduce the system:
     action_plan(listing_id)
 
 - 📄 See: [Phase 4 Instructions](docs/Phase_4_AI_LangGraph_Multi-Agent_System_Reuse_Instructions.pdf)
+- 📄 Code: [Phase 4 Notebook](notebooks/phase_4_AI_Agent_Model_Full_set.ipynb) 
 
 #### 5. Dashboard (Optional)
 
