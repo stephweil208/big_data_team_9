@@ -39,7 +39,7 @@ This project is organized into phases. To fully reproduce the system:
   - `gold_listings`
   - `gold_reviews`
   - `gold_calendar`
-- 📄 See: `[Phase 1 Instructions](docs/Phase_1_Medallion_Pipeline_Reuse_Instructions.pdf)`
+- 📄 See: [Phase 1 Instructions](docs/Phase_1_Medallion_Pipeline_Reuse_Instructions.pdf)
 
 #### 2. Feature Engineering (Phase 2)
 - Builds the `gold_features` table used for analytics and AI  
