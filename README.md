@@ -40,6 +40,7 @@ This project is organized into phases. To fully reproduce the system:
   - `gold_reviews`
   - `gold_calendar`
 - 📄 See: [Phase 1 Instructions](docs/Phase_1_Medallion_Pipeline_Reuse_Instructions.pdf)
+- 📄 Code: [Phase 1 notebook](notebooks/phase_1_airbnb_bronze_layer.ipynb)
 
 #### 2. Feature Engineering (Phase 2)
 - Builds the `gold_features` table used for analytics and AI  
