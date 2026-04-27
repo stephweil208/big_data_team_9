@@ -44,7 +44,7 @@ This project is organized into phases. To fully reproduce the system:
 #### 2. Feature Engineering (Phase 2)
 - Builds the `gold_features` table used for analytics and AI  
 - Includes pricing benchmarks, occupancy rates, and competitive scoring  
-- 📄 See: [Phase 2 Instructions] (docs/Phase_2_Analytics_Reuse_Instructions.pdf)
+- 📄 See: [Phase 2 Instructions](docs/Phase_2_Analytics_Reuse_Instructions.pdf)
 
 #### 3. NLP Processing (Phase 3)
 - Builds `gold_nlp_features` from review sentiment and topic analysis  
