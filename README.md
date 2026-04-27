@@ -4,7 +4,7 @@
 Bhavisha Chafekar · Jyothirmai Sri Peesapati · Phoenix Ferrari · Stephen Weiler · Tzu-Yu Chen  
 
 ## InsideInsight Flyer
-[View Project Flyer](flyer.pdf)
+[View Project Flyer](flyer/flyer.pdf)
 
 ---
 
