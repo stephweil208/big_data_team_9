@@ -55,7 +55,7 @@ This project is organized into phases. To fully reproduce the system:
 
     action_plan(listing_id)
 
-- 📄 See: [Phase 4 Instructions](docs/Phase_4_ AI _ LangGraph_Multi-Agent_System_Reuse_Instructions.pdf)
+- 📄 See: [Phase 4 Instructions](docs/Phase_4_AI_LangGraph_Multi-Agent_System_Reuse_Instructions.pdf)
 
 #### 5. Dashboard (Optional)
 
