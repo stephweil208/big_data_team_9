@@ -63,7 +63,7 @@ Run locally using Streamlit:
 
     python -m streamlit run app/app.py
 
-- 📄 See: `/docs/dashboard.pdf`
+- 📄 See: [Dashboard Instructions](docs/Phase_5_Dashboard_Reuse_Instructions.pdf)
 
 ---
 
